@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brody King</h1>
 <h3 align="center">A frontend developer from Missouri, USA</h3>
 
-- 🔭 I’m currently working on [bprog](https://github.com/brodyking/bprog)
+- 🔭 I’m currently working on [wikimd](https://github.com/brodyking/wikimd)
 
 - 🌱 I’m currently learning **Javascript**
 
