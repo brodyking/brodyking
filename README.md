@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Brody King</h1>
 <h3 align="center">A frontend developer from Missouri, USA</h3>
 
-- 🔭 I’m currently working on [wikimd](https://github.com/brodyking/wikimd)
+- 🔭 I’m currently working on [Openchan](https://github.com/brodyking/Openchan)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [https://bkjs.us](https://bkjs.us)
 
-- 📝 I regularly write articles on Updates to my website and ongoing projects.
+- 📝 I regularly write articles on Updates to my website and ongoing projects that I am working on.
 
-- 📫 How to reach me **bk.2k@hotmail.com**
-
-- ⚡ Fun fact **I fucking suck a programming**
+- 📫 How to reach me **bkjs.us/pages/contact**
 
 <p align="left">
 </p>
