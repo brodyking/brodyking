@@ -12,4 +12,7 @@ I am a High School student who enjoys making Web Applications and other side pro
 
 - 📈 [*Pouchtrack*](https://github.com/brodyking/ptrack) - Nicotine intake tracker `php` `bootstrap`
 - 🏫 [*Flashcarrd*](https://github.com/brodyking/flashcarrd) - A simple flashcard app `php` `bootstrap`
+
+### 🦖 Old Projects
 - 💬 [*Openchan*](https://github.com/brodyking/openchan) - Imageboard script `php`
+- 📖 [*WikiMD*](https://github.com/brodyking/openchan) - Lightweight wiki software `javascript`
