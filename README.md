@@ -15,4 +15,4 @@ I am a High School student who enjoys making Web Applications and other side pro
 
 ### 🦖 Old Projects
 - 💬 [*Openchan*](https://github.com/brodyking/openchan) - Imageboard script `php`
-- 📖 [*WikiMD*](https://github.com/brodyking/openchan) - Lightweight wiki software `javascript`
+- 📖 [*WikiMD*](https://github.com/brodyking/wikimd) - Lightweight wiki software `javascript`
