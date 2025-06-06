@@ -1,4 +1,4 @@
-### Brody King 
+## Brody King 
 
 <code><i>🏠 <a href="https://benadryl.dev">benadryl.dev</a></i></code>
 <code><i>📫 <a href="mailto:bk.2k@hotmail.com">bk.2k@hotmail.com</a></i></code>
