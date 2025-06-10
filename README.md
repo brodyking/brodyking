@@ -9,7 +9,7 @@
 I am a High School student who enjoys making Web Applications and other side projects for fun.
 
 #### 🌱 My latest projects
-
+- ♠️ *Chipledger* (Coming soon) - Track poker and blackjack buyins and cashouts. `javascript` `php`
 - 📈 [*Pouchtrack*](https://github.com/brodyking/ptrack) - Nicotine intake tracker `php` `bootstrap`
 - 🏫 [*Flashcarrd*](https://github.com/brodyking/flashcarrd) - A simple flashcard app `php` `bootstrap`
 
