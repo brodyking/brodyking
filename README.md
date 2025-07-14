@@ -8,11 +8,11 @@
 
 I am a High School student who enjoys making Web Applications and other side projects for fun.
 
-#### 🌱 My latest projects
-- ♠️ [*Chipledger*](https://github.com/brodyking/chipledger) - Track poker and blackjack buyins and cashouts. `javascript` `php`
-- 📈 [*Pouchtrack*](https://github.com/brodyking/ptrack) - Nicotine intake tracker `php` `bootstrap`
-- 🏫 [*Flashcarrd*](https://github.com/brodyking/flashcarrd) - A simple flashcard app `php` `bootstrap`
+### 🌱 My latest projects
+- [**Chipledger**](https://github.com/brodyking/chipledger) - Track poker and blackjack buyins and cashouts. `javascript` `php`
+- [**Pouchtrack**](https://github.com/brodyking/ptrack) - Nicotine intake tracker `php` `bootstrap`
+- [**Flashcarrd**](https://github.com/brodyking/flashcarrd) - A simple flashcard app `php` `bootstrap`
 
 ### 🦖 Old Projects
-- 💬 [*Openchan*](https://github.com/brodyking/openchan) - Imageboard script `php`
-- 📖 [*WikiMD*](https://github.com/brodyking/wikimd) - Lightweight wiki software `javascript`
+- [**Openchan**](https://github.com/brodyking/openchan) - Imageboard script `php`
+- [**WikiMD**](https://github.com/brodyking/wikimd) - Lightweight wiki software `javascript`
