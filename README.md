@@ -6,7 +6,7 @@
 
 `👑 php` `🤢 javascript` `🤓 html/css` `💥 java` `🐍 python`
 
-I am a High School student who enjoys making Web Applications and other side projects for fun.
+I am a High School student who enjoys making web apps and other side projects for fun.
 
 ### 🌱 My latest projects
 - [**Chipledger**](https://github.com/brodyking/chipledger) - Track poker and blackjack buyins and cashouts. `javascript` `php`
