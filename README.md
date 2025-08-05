@@ -9,6 +9,7 @@
 I am a High School student who enjoys making web apps and other side projects for fun.
 
 ### 🌱 My latest projects
+- [**Blackjack**](https://github.com/brodyking/blackjack) - A simple(ish) blackjack game with a focus on learning to count cards. `javascript`
 - [**Chipledger**](https://github.com/brodyking/chipledger) - Track poker and blackjack buyins and cashouts. `javascript` `php`
 - [**Pouchtrack**](https://github.com/brodyking/ptrack) - Nicotine intake tracker `php` `bootstrap`
 - [**Flashcarrd**](https://github.com/brodyking/flashcarrd) - A simple flashcard app `php` `bootstrap`
